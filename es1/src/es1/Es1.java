@@ -18,7 +18,7 @@ public class Es1 {
         String f;
         int a=10;
         
-        for(a==0){
+        while(a==0){
             System.out.println("sd");
         }
     }
