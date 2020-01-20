@@ -16,6 +16,11 @@ public class Es1 {
      */
     public static void main(String[] args) {
         String f;
+        int a=10;
+        
+        for(a==0){
+            System.out.println("sd");
+        }
     }
     
 }
